@@ -18,4 +18,5 @@ class AppColors {
   static const Color white = Colors.white;
   static const Color purple = Color(0xFFCABCF5);
   static const Color green = Color(0xFFEDF860);
+  //proba
 }
